@@ -1,5 +1,5 @@
 {
-  "name": "Chrome Extension Webpack",
+  "name": "Beautiful Web",
   "options_page": "options.html",
   "background": {
     "page": "background.html"
